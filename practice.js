@@ -101,12 +101,14 @@ function nameCheck(name){
 // that will be numbers.
 // The add function should return the two parameters added together
 
-//Code Here
+function Add(x,y){
+  return x+y;
+}
 
 //Now invoke add, passing in the numbers 3 and 4
 //storing the result in the variable mathSum.
 
-//Code Here
+var mathSum = Add(3,4);
 
 //////////////////PROBLEM 12////////////////////
 
